@@ -1,5 +1,5 @@
 hello-world
-===========
 
-first git repo
-This repo will store all the crappy and insignificant projects that I "work" on.
+Hello astronauts
+
+i'm new here. still trying to figure out how to navigate my way around this github thing. 
